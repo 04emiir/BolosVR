@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bola
+  - Bola_Reset
+  - currentPins
+  - tp_Inicio
+  - pinsGroup
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - Bola
   - Barreras
   - Jugador
-  - 
+  - Barrera_bola
   - 
   - 
   - 
