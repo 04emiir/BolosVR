@@ -1,10 +1,8 @@
-using Palmmedia.ReportGenerator.Core.Parser.Analysis;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
-using static UnityEditor.Progress;
 
 public class ballLogic : MonoBehaviour
 {
